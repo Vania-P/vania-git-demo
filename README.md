@@ -19,7 +19,7 @@ _**italic and bold together**_
 2. item
 3. item
 
-![github octocat logo](https://www.pngkey.com/detail/u2w7w7a9r5o0i1i1_new-github-octocat-github-octocat/)
+![github octocat logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 This is a demo for a Git course at [TrainingDragon](https://www.trainingdragon.co.uk/)
 
